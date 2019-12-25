@@ -1,2 +1,2 @@
 # Cookbook
-This is an exercite
+This is a git exercite
